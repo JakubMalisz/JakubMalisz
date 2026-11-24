@@ -7,6 +7,5 @@ I am a Cybersecurity student with a primary focus on **Defensive Security (Blue 
 * **Programming & Automation:** Python and Go (developing custom security tools).
 
 ###  What I'm Currently Working On
-* Developing custom security utilities in Go, such as a scanner designed to detect advanced persistence mechanisms in Linux environments.
-
+* Building an agentless Active Directory lab orchestrator in Python, designed to remotely provision vulnerability scenarios over WinRM and validate domain misconfigurations via LDAP.
 
